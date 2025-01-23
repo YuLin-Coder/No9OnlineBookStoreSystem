@@ -1,22 +1,10 @@
 <p><h1 align="center">网上图书商城</h1></p>
 
-<p> 获取sql文件 QQ: 386869957 QQ群: 377586148 </p>
-<p> [个人站点: 从戎源码网](https://armycodes.com/)</p>
-
-## 简介
-
-> 本代码来源于网络,仅供学习参考使用!
->
-> 提供1.远程部署/2.修改代码/3.设计文档指导/4.框架代码讲解等服务
->
-> 前端登录地址：http://localhost:8080/goods/jsps/user/login.jsp
->
-> 用户名： user   密码： 123456
->
-> 后端登录地址：http://localhost:8080/goods/adminjsps/login.jsp
->
-> 用户名： admin   密码： 123456
->
+- 完整代码获取地址：从戎源码网 ([https://armycodes.com/](https://armycodes.com/))
+- 作者微信：19941326836  QQ：952045282 
+- 承接计算机毕业设计、Java毕业设计、Python毕业设计、深度学习、机器学习
+- 选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt 一条龙服务
+- 所有选题地址（https://github.com/YuLin-Coder/AllProjectCatalog）
 
 ## 项目介绍
 
